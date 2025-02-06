@@ -1,4 +1,10 @@
-# Running this puppy
+Note: Probably don't bother with this. The free data from worldtides seemed pretty terrible to me.
+
+Better off trying either:
+- https://github.com/jpr5/webcaltides (if you're in US or Canada only)
+- https://thesurfkit.com
+
+## Running this puppy
 
 Prerequisite: 
 Create your own .env file with a free WorldTides API key from https://www.worldtides.info/developer 
